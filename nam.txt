@@ -1,1 +1,8 @@
-docker run --rm -u root -p 8089:8089 -p 8080:8080 -v jenkins-data:/var/jenkins_home -v /var/run/docker.sock:/var/run/docker.sock -v C:\Users\Admin\devopstraining veritycorp/devops 
+docker run --rm -u root -p 8089:8089 -p 8080:8080 -v jenkins-data:/var/jenkins_home -v /var/run/docker.sock:/var/run/docker.sock -v C:\Users\Admin\devopstraining veritycorp/devops
+
+
+
+
+https://github.com/Gitnamrata/Devopstraining
+
+test merge 
