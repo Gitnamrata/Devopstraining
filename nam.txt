@@ -6,3 +6,4 @@ docker run --rm -u root -p 8089:8089 -p 8080:8080 -v jenkins-data:/var/jenkins_h
 https://github.com/Gitnamrata/Devopstraining
 
 test merge 
+test merge from git web 
